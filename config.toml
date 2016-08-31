@@ -1,5 +1,5 @@
 baseurl = "https://marykevdwalt.github.io/"
-title = "Academic Theme"
+title = "Maria's Homepage"
 copyright = "&copy; 2016 Your Name"
 languageCode = "en-us"
 theme = "academic"
@@ -12,13 +12,13 @@ googleAnalytics = ""
 
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  name = "Maria van der Walt"
+  role = "Assistant Professor of Mathematics"
+  organization = "Vanderbilt University"
   avatar = "foto.jpg"
-  email = "test@example.org"
-  address = "Stanford AI Lab, Stanford University, California, 90210, USA."
-  phone = "888 888 88 88"
+  email = "maria.vanderwalt@vanderbilt.edu"
+  address = "1326 Stevenson Center, Vanderbilt University, Nashville, 37212, USA."
+#  phone = "888 888 88 88"
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -37,24 +37,24 @@ googleAnalytics = ""
   # Biography section.
   # Section will only be displayed if `content/home/about.md` exists.
   [params.about]
-    interests = ["Artificial Intelligence", "Computational Linguistics", "Information Retrieval"]
+    interests = ["Approximation Theory", "Spline Theory", "Computational Harmonic Analysis"]
     str_interests = "Interests"
     str_education = "Education"
 
     [[params.about.education]]
-      course = "PhD in Artificial Intelligence"
-      institution = "Stanford University"
+      course = "PhD (Applied Mathematics)"
+      institution = "University of Missouri-St. Louis"
+      year = 2015
+
+    [[params.about.education]]
+      course = "MSc (Mathematics)"
+      institution = "Stellenbosch University, South Africa"
       year = 2012
 
     [[params.about.education]]
-      course = "MEng in Artificial Intelligence"
-      institution = "Massachusetts Institute of Technology"
+      course = "BSc (Mathematical Sciences)"
+      institution = "Stellenbosch University, South Africa"
       year = 2009
-
-    [[params.about.education]]
-      course = "BSc in Artificial Intelligence"
-      institution = "Massachusetts Institute of Technology"
-      year = 2008
 
   # Selected Publications section.
   # Section will only be displayed if there are publications with `selected = true` in their `+++` preamble.
@@ -147,7 +147,7 @@ googleAnalytics = ""
 
 [[menu.main]]
   name = "CV"
-  url = "#cv"
+  url = "/cv.pdf"
   weight = 5
 
 [[menu.main]]
