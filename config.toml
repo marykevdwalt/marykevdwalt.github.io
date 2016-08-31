@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-website-url.com/"
+baseurl = "https://marykevdwalt.github.io"
 title = "Academic Theme"
 copyright = "&copy; 2016 Your Name"
 languageCode = "en-us"
@@ -154,4 +154,3 @@ googleAnalytics = ""
   name = "Contact"
   url = "#contact"
   weight = 6
-  
