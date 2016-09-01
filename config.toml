@@ -1,6 +1,6 @@
 baseurl = "https://marykevdwalt.github.io/"
 title = "Maria's Homepage"
-copyright = "&copy; 2016 Your Name"
+copyright = "&copy; 2016 Maria van der Walt"
 languageCode = "en-us"
 theme = "academic"
 
@@ -13,8 +13,8 @@ googleAnalytics = ""
 
 [params]
   name = "Maria van der Walt"
-  role = "Assistant Professor of Mathematics"
-  organization = "Vanderbilt University"
+  role = "Assistant Professor"
+  organization = "Mathematics Department, Vanderbilt University"
   avatar = "foto.jpg"
   email = "maria.vanderwalt@vanderbilt.edu"
   address = "1326 Stevenson Center, Vanderbilt University, Nashville, 37212, USA."
@@ -108,22 +108,17 @@ googleAnalytics = ""
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "mailto:maria.vanderwalt@vanderbilt.edu"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?hl=en&user=OP0E99oAAAAJ"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Maria_Van_Der_Walt"
 
 
 # Navigation Links
