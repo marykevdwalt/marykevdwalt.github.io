@@ -14,7 +14,7 @@ googleAnalytics = ""
 [params]
   name = "Maria van der Walt"
   role = "Assistant Professor"
-  organization = "Mathematics Department, Vanderbilt University"
+  organization = "Mathematics Department Vanderbilt University"
   avatar = "foto.jpg"
   email = "maria.vanderwalt@vanderbilt.edu"
   address = "1326 Stevenson Center, Vanderbilt University, Nashville, 37212, USA."
