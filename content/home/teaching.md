@@ -15,7 +15,7 @@ Courses I have previously taught:
 
 - Accelerated Single-Variable Calculus II (Vanderbilt University, Summer 2016)
 - Differential Equations and Linear Algebra (Vanderbilt University, Spring 2016)
-- Trigonometry (University of Missouri-St. Louis, Spring 2014, Fall 2015, Spring 2015)
+- Trigonometry (University of Missouri-St. Louis, Spring 2014, Fall 2014, Spring 2015)
 - Basic Probability and Statistics (University of Missouri-St. Louis, Spring 2014)
 - Intermediate Algebra (University of Missouri-St. Louis, Fall 2013)
 - Beginning Algebra (University of Missouri-St. Louis, Fall 2013)
