@@ -14,4 +14,4 @@ I was born in South Africa. I grew up in a town called Paarl (which means 'pearl
 
 My first language is Afrikaans, a language that developed from Dutch (South Africa used to be a Dutch colony).
 
-Apart from thinking and talking about mathematics, I love to cook and bake, play the viola, go for walks and visit coffee shops with my husband and best friend, Tjaart.
+Apart from thinking and talking about mathematics, I love to cook and bake (especially new recipes), play the viola, and go for walks and visit coffee shops with my husband and best friend, Tjaart.
