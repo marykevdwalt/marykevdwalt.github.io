@@ -37,7 +37,7 @@ googleAnalytics = ""
   # Biography section.
   # Section will only be displayed if `content/home/about.md` exists.
   [params.about]
-    interests = ["Approximation Theory", "Spline Theory", "Computational Harmonic Analysis"]
+    interests = ["Data Science", "Approximation Theory", "Computational Harmonic Analysis", "Spline Theory"]
     str_interests = "Interests"
     str_education = "Education"
 
