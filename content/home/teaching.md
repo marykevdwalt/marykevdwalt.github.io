@@ -7,9 +7,10 @@ section_id = 10
 weight = 10
 +++
 
-In Fall 2016 at Vanderbilt University, I am teaching:
+In Spring 2017 at Vanderbilt University, I am teaching:
 
 - Math2410: Methods of Linear Algebra
+- Math3620: Introduction to Numerical Mathematics
 
 Courses I have previously taught (as primary instructor):
 
