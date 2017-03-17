@@ -142,7 +142,7 @@ googleAnalytics = ""
 
 [[menu.main]]
   name = "CV"
-  url = "/cv.pdf"
+  url = "/cv_website.pdf"
   weight = 5
 
 [[menu.main]]
