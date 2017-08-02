@@ -7,13 +7,14 @@ section_id = 10
 weight = 10
 +++
 
-In Spring 2017 at Vanderbilt University, I am teaching:
+In Fall 2017 at Westmont College, I am teaching:
 
-- Math2410: Methods of Linear Algebra
-- Math3620: Introduction to Numerical Mathematics
+- MA-009: Calculus I
 
 Courses I have previously taught (as primary instructor):
 
+- Introduction to Numerical Mathematics (Vanderbilt University, Spring 2017)
+- Linear Algebra (Vanderbilt University, Fall 2016, Spring 2017, Summer 2017)
 - Accelerated Single-Variable Calculus II (Vanderbilt University, Summer 2016)
 - Differential Equations and Linear Algebra (Vanderbilt University, Spring 2016)
 - Trigonometry (University of Missouri-St. Louis, Spring 2014, Fall 2014, Spring 2015)
@@ -34,4 +35,4 @@ Courses for which I have been a Teaching Assistant:
 - Linear Programming (Stellenbosch University, 2009)
 - Nonlinear Optimization (Stellenbosch University, 2009)
 
-[Here](/teaching_statement.pdf) is my teaching statement.
+<!--[Here](/teaching_statement.pdf) is my teaching statement.-->

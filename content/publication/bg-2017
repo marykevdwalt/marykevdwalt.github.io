@@ -1,0 +1,27 @@
++++
+abstract = "We consider the question of 30-minute prediction of blood glucose levels measured by continuous glucose monitoring devices, using
+clinical data. While most studies of this nature deal with one patient at a time, we take a certain percentage of patients in the data set as training data, and test on the remainder of the patients; i.e., the machine need not re-calibrate on the new patients in the data set. We demonstrate how deep learning can outperform shallow networks in this example. One novelty is to demonstrate how a parsimonious deep representation can be constructed using domain knowledge."
+abstract_short = ""
+authors = ["H.N. Mhaskar", "S.V. Pereverzyev", "M.D. van der Walt"]
+date = "2017-07-14"
+image = ""
+image_preview = ""
+math = true
+publication = "In *Frontiers in Applied Mathematics and Statistics*"
+publication_short = "In *Front. Appl. Math. Stat.*"
+selected = false
+title = "A Deep Learning Approach to Diabetic Blood Glucose Prediction"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+
+[[url_custom]]
+name = "Link"
+url = "http://journal.frontiersin.org/article/10.3389/fams.2017.00014/full"
+
+
+
++++

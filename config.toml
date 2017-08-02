@@ -1,6 +1,6 @@
 baseurl = "https://marykevdwalt.github.io/"
 title = "Maria's Homepage"
-copyright = "&copy; 2016 Maria van der Walt"
+copyright = "&copy; 2017 Maria van der Walt"
 languageCode = "en-us"
 theme = "academic"
 
@@ -14,10 +14,10 @@ googleAnalytics = ""
 [params]
   name = "Maria van der Walt"
   role = "Assistant Professor"
-  organization = "Mathematics Department Vanderbilt University"
+  organization = "Department of Mathematics and Computer Science, Westmont College"
   avatar = "foto.jpg"
-  email = "maria.vanderwalt@vanderbilt.edu"
-  address = "1326 Stevenson Center, Vanderbilt University, Nashville, 37212, USA."
+  email = "mvanderwalt@westmont.edu"
+  address = "Department of Mathematics and Computer Science, Westmont College, 955 La Paz Road, Santa Barbara, 93108, USA."
 #  phone = "888 888 88 88"
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
